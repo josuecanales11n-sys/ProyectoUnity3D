@@ -1,0 +1,12 @@
+{
+    "asset": "222cde75a7b83134ea5055c9e89dab7c",
+    "fileName": "019f1a73-a83d-7708-91cf-3e3ec21a8097_Preview.jpg",
+    "prompt": "weathered old wooden planks, medieval dark brown oak timber, rough rustic wood texture, seamless, tileable, high detail, 1024x1024",
+    "negativePrompt": "",
+    "model": "realistic-textures-3-0",
+    "modelName": "Realistic Textures 3.0",
+    "customSeed": 808071499,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "refinementMode": "Generation"
+}

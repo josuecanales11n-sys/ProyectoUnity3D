@@ -1,0 +1,12 @@
+{
+    "asset": "94c4cb04acbad6445945afba6307b643",
+    "fileName": "019f1a6b-b208-7491-bb0e-ddd27b2921c8_Preview.jpg",
+    "prompt": "old medieval clay roof tiles, realistic dark red terracotta, weathered, mossy, seamless texture, tileable, high detail, 1024x1024",
+    "negativePrompt": "",
+    "model": "realistic-textures-3-0",
+    "modelName": "Realistic Textures 3.0",
+    "customSeed": 130540840,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "refinementMode": "Generation"
+}

@@ -1,0 +1,12 @@
+{
+    "asset": "52b086d52f7c2b643804286021550aec",
+    "fileName": "019f1a6b-a88e-7841-b84a-4248d72bbffe_Preview.jpg",
+    "prompt": "medieval castle stone wall, realistic gray granite blocks, weathered, seamless texture, tileable, high detail, medieval masonry, 1024x1024",
+    "negativePrompt": "",
+    "model": "realistic-textures-3-0",
+    "modelName": "Realistic Textures 3.0",
+    "customSeed": 990386110,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "refinementMode": "Generation"
+}
